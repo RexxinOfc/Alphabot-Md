@@ -41,17 +41,17 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.botname = "Bad Bot" //namabot kalian
+global.ownername = "Rexxin OFC" //nama kalian
+global.myweb = "tiktok.com/@rexxinofficial" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "rexxinofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['6281317549796'] //premium user
+global.owner = ["6281317549796", "6281997634075"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281317549796" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
@@ -76,7 +76,7 @@ global.buttonDefault = [{
    }
 }, {
    urlButton: {
-      displayText: 'Website',
+      displayText: 'Tiktok',
       url: myweb
    }
 }, {
@@ -102,8 +102,8 @@ global.buttonDefault2 = [{
    }
 }, {
    urlButton: {
-      displayText: 'Website',
-      url: myweb
+      displayText: 'Tiktok',
+      url: tiktok.com/@rexxinofficial
    }
 }, {
    quickReplyButton: {
@@ -280,7 +280,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: 'Done Puki',
    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
